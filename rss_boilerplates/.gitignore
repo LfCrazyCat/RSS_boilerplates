@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/rssdatabas
 /.pnp
 .pnp.js
 
